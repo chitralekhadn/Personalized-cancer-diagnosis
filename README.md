@@ -1,5 +1,6 @@
 # Personalized-cancer-diagnosis
-1.1. Description
+Description:
+
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/
 
 Data: Memorial Sloan Kettering Cancer Center (MSKCC)
